@@ -17,3 +17,4 @@ Esc：关闭、菜单
 T：回城
 鼠标滚轮：缩放镜头
 存档位于：C:\Users\admin\AppData\Roaming\Godot\app_userdata\Unbound Mirror
+项目位于：https://github.com/yyf2019/PathOfOtakuExport/releases/
